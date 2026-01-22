@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml" tvg-shift="0"
-#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市昌平区组播 北京电信",CCTV1HD
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV1HD
 http://115.171.216.188:4000/rtp/225.1.8.1:8008
 #EXTINF:-1 tvg-id="CCTV2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市昌平区组播 北京电信",CCTV2HD
 http://115.171.216.188:4000/rtp/225.1.8.2:8084
