@@ -1,89 +1,133 @@
-#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml" tvg-shift="0"
-#EXTINF:-1 tvg-id="CCTV1-综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV1-综合
-http://223.72.123.44:85/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV2-财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV2-财经
-http://223.72.123.44:85/tsfile/live/0002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV3-综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV3-综艺
-http://223.72.123.44:85/tsfile/live/0003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV4-国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV4-国际
-http://223.72.123.44:85/tsfile/live/0004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV5-体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV5-体育
-http://223.72.123.44:85/tsfile/live/0005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV6-电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV6-电影
-http://223.72.123.44:85/tsfile/live/0006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV7-军农" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV7-军农
-http://223.72.123.44:85/tsfile/live/0007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV8-电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV8-电视剧
-http://223.72.123.44:85/tsfile/live/0008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV9-纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV9-纪录
-http://223.72.123.44:85/tsfile/live/0009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV10-科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV10-科教
-http://223.72.123.44:85/tsfile/live/0010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV11-戏曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV11-戏曲
-http://223.72.123.44:85/tsfile/live/0011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV12-社会与法" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV12-社会与法
-http://223.72.123.44:85/tsfile/live/0012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV13-新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV13-新闻
-http://223.72.123.44:85/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV14-少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV14-少儿
-http://223.72.123.44:85/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV15-音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV15-音乐
-http://223.72.123.44:85/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",CCTV-16 奥林匹克
-http://223.72.123.44:85/tsfile/live/1016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="BTV北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",BTV北京卫视
-http://223.72.123.44:85/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="BTV文艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",BTV文艺
-http://223.72.123.44:85/tsfile/live/1018_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="BTV科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",BTV科教
-http://223.72.123.44:85/tsfile/live/1019_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="BTV影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",BTV影视
-http://223.72.123.44:85/tsfile/live/1020_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="BTV新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",BTV新闻
-http://223.72.123.44:85/tsfile/live/1025_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="BTV卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",BTV卡酷少儿
-http://223.72.123.44:85/tsfile/live/1026_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",湖南卫视
-http://223.72.123.44:85/tsfile/live/1027_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",浙江卫视
-http://223.72.123.44:85/tsfile/live/1028_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",江苏卫视
-http://223.72.123.44:85/tsfile/live/1029_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",安徽卫视
-http://223.72.123.44:85/tsfile/live/1030_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",天津卫视
-http://223.72.123.44:85/tsfile/live/1031_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",辽宁卫视
-http://223.72.123.44:85/tsfile/live/1032_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",北京体育休闲
-http://223.72.123.44:85/tsfile/live/1033_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",河南卫视
-http://223.72.123.44:85/tsfile/live/1034_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",四川卫视
-http://223.72.123.44:85/tsfile/live/0123_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",江西卫视
-http://223.72.123.44:85/tsfile/live/0138_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",贵州卫视
-http://223.72.123.44:85/tsfile/live/1038_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",深圳卫视
-http://223.72.123.44:85/tsfile/live/1039_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",湖北卫视
-http://223.72.123.44:85/tsfile/live/1040_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",东方卫视
-http://223.72.123.44:85/tsfile/live/1041_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",重庆卫视
-http://223.72.123.44:85/tsfile/live/0142_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",东南卫视
-http://223.72.123.44:85/tsfile/live/0137_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",河北卫视
-http://223.72.123.44:85/tsfile/live/0117_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",广东卫视
-http://223.72.123.44:85/tsfile/live/0125_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",广西卫视
-http://223.72.123.44:85/tsfile/live/0113_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",吉林卫视
-http://223.72.123.44:85/tsfile/live/0116_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="北京财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",北京财经
-http://223.72.123.44:85/tsfile/live/1024_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="北京科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市顺义区酒店 北京移动",北京科教
-http://223.72.123.44:85/tsfile/live/1000_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CCTV1" group-title="CCTV",CCTV1-综合
+http://223.72.123.44:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV2" group-title="CCTV",CCTV2-财经
+http://223.72.123.44:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV3" group-title="CCTV",CCTV3-综艺
+http://223.72.123.44:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV4" group-title="CCTV",CCTV4-国际
+http://223.72.123.44:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV5" group-title="CCTV",CCTV5-体育
+http://223.72.123.44:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV6" group-title="CCTV",CCTV6-电影
+http://223.72.123.44:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV7" group-title="CCTV",CCTV7-军农
+http://223.72.123.44:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV8" group-title="CCTV",CCTV8-电视剧
+http://223.72.123.44:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV9" group-title="CCTV",CCTV9-纪录
+http://223.72.123.44:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV10" group-title="CCTV",CCTV10-科教
+http://223.72.123.44:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV11" group-title="CCTV",CCTV11-戏曲
+http://223.72.123.44:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV12" group-title="CCTV",CCTV12-社会与法
+http://223.72.123.44:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV13" group-title="CCTV",CCTV13-新闻
+http://223.72.123.44:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV14" group-title="CCTV",CCTV14-少儿
+http://223.72.123.44:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV15" group-title="CCTV",CCTV15-音乐
+http://223.72.123.44:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV16" group-title="CCTV",CCTV-16 奥林匹克
+http://223.72.123.44:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="BTV1" group-title="北京",BTV北京卫视
+http://223.72.123.44:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="BTV2" group-title="北京",BTV文艺
+http://223.72.123.44:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="BTV3" group-title="北京",BTV科教
+http://223.72.123.44:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="BTV4" group-title="北京",BTV影视
+http://223.72.123.44:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="BTVNews" group-title="北京",BTV新闻
+http://223.72.123.44:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="BTVKaku" group-title="北京",BTV卡酷少儿
+http://223.72.123.44:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="HunanTV" group-title="卫视",湖南卫视
+http://223.72.123.44:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="ZhejiangTV" group-title="卫视",浙江卫视
+http://223.72.123.44:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="JiangsuTV" group-title="卫视",江苏卫视
+http://223.72.123.44:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="AnhuiTV" group-title="卫视",安徽卫视
+http://223.72.123.44:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="TianjinTV" group-title="卫视",天津卫视
+http://223.72.123.44:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="LiaoningTV" group-title="卫视",辽宁卫视
+http://223.72.123.44:85/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="北京",北京体育休闲
+http://223.72.123.44:85/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="HenanTV" group-title="卫视",河南卫视
+http://223.72.123.44:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="SichuanTV" group-title="卫视",四川卫视
+http://223.72.123.44:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="JiangxiTV" group-title="卫视",江西卫视
+http://223.72.123.44:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="GuizhouTV" group-title="卫视",贵州卫视
+http://223.72.123.44:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="ShenzhenTV" group-title="卫视",深圳卫视
+http://223.72.123.44:85/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="HubeiTV" group-title="卫视",湖北卫视
+http://223.72.123.44:85/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="DragonTV" group-title="卫视",东方卫视
+http://223.72.123.44:85/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="ChongqingTV" group-title="卫视",重庆卫视
+http://223.72.123.44:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="FujianTV" group-title="卫视",东南卫视
+http://223.72.123.44:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="HebeiTV" group-title="卫视",河北卫视
+http://223.72.123.44:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="GuangdongTV" group-title="卫视",广东卫视
+http://223.72.123.44:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="GuangxiTV" group-title="卫视",广西卫视
+http://223.72.123.44:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="JilinTV" group-title="卫视",吉林卫视
+http://223.72.123.44:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="北京",北京财经
+http://223.72.123.44:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="北京",北京科教
+http://223.72.123.44:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
