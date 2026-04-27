@@ -87,5 +87,5 @@ http://223.72.123.30:9901/tsfile/live/0116_1.m3u8?key=txiptv&amp;playlive=1&amp;
 http://223.72.123.30:9901/tsfile/live/1024_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-id="北京科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京酒店 北京移动",北京科教
 http://223.72.123.30:9901/tsfile/live/1000_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1,B站-LPL英雄联盟赛事
+#EXTINF:-1,英雄联盟
 https://live-play.bilivideo.com/live/6/hd.m3u8
