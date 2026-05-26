@@ -164,6 +164,5 @@ http://114.254.199.153:9999/tsfile/live/0132_2.m3u8?key=txiptv&amp;playlive=0&am
 http://114.254.199.153:9999/tsfile/live/0126_2.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京市北京市酒店 北京联通",北京卫视
 http://114.254.199.153:9999/tsfile/live/0122_2.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
-
 #EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="北京酒店 北京联通",西藏卫视
 http://114.241.104.35:85/tsfile/live/53/1053_1.m3u8?key=txiptv
